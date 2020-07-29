@@ -25,6 +25,8 @@ sudo apt-get install -y build-essential \
     libgtk-3-dev \
     libatlas-base-dev \
     gfortran \
+    python3 \
+    python3-pip \
     python3-dev \
     python3-venv \
     libgstreamer1.0-dev \
