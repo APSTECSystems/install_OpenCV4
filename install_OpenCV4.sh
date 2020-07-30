@@ -59,7 +59,7 @@ cmake -D CMAKE_BUILD_TYPE=RELEASE \
     -D WITH_TBB=ON \
     ../
 
-make -j4
+make -j8
 sudo make install
 sudo ldconfig
 
